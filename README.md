@@ -14,7 +14,9 @@ I'm a student from ITB's School of Electrical Engineering and Informatics. I'm c
 <h2>Contact</h2>
 <h4>You can find me on: </h4>
 
-- Line : saulsayerz
-- Instagram : <a href="https://www.instagram.com/saulsayers/?hl=en">saulsayers</a> 
-- Linkedin : <a href="https://www.linkedin.com/in/saulsayers/?originalSubdomain=id">saulsayers</a>
-- email : saulsayers@gmail.com
+<ul style="display:flex;">
+<li>Line : saulsayerz</li>
+<li>Instagram : <a href="https://www.instagram.com/saulsayers/?hl=en">saulsayers</a></li>
+<li>Linkedin : <a href="https://www.linkedin.com/in/saulsayers/?originalSubdomain=id">saulsayers</a></li>
+<li>email : saulsayers@gmail.com</li>
+</ul>
