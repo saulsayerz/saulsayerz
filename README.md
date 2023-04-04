@@ -46,6 +46,7 @@ I'm a student from ITB's School of Electrical Engineering and Informatics. I'm c
 <img src="https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker"/>
 <img src="https://img.shields.io/badge/-Nodejs-333333?style=flat-square&logo=Node.js">
 <img src="https://img.shields.io/badge/-Echo-333333?style=flat-square&logo=prolog">
+<img src="https://img.shields.io/badge/-TypeORM-333333?style=flat-square&logo=prolog">
 </p>
 <p>
 <img src="https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman">
