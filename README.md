@@ -61,6 +61,14 @@ I'm a student from ITB's School of Electrical Engineering and Informatics. I'm c
 <p>
 <img src="https://img.shields.io/badge/-JavaFX-333333?style=flat-square&logo=prolog">
 <img src="https://img.shields.io/badge/-Tkinter-333333?style=flat-square&logo=prolog">
+<img src="https://img.shields.io/badge/-PyGui-333333?style=flat-square&logo=prolog">
+</p>
+
+### Mobile Development
+<p>
+<img src="https://img.shields.io/badge/-Android%20Studio-333333?style=flat-square&logo=prolog">
+<img src="https://img.shields.io/badge/-ROOM-333333?style=flat-square&logo=prolog">
+<img src="https://img.shields.io/badge/-SQlite-333333?style=flat-square&logo=prolog">
 </p>
 
 ### Others
@@ -75,6 +83,7 @@ I'm a student from ITB's School of Electrical Engineering and Informatics. I'm c
 <p>
 <img src="https://img.shields.io/badge/-Numpy-333333?style=flat-square&logo=prolog">
 <img src="https://img.shields.io/badge/-Pandas-333333?style=flat-square&logo=prolog">
+<img src="https://img.shields.io/badge/-sklearn-333333?style=flat-square&logo=prolog">
 </p>
 
 <h2>Stats</h2>
