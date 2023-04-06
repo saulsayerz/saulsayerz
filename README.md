@@ -1,7 +1,7 @@
 <h2>About me</h2>
 <h3>Hello there! My name is Saul Sayers👋</h3>
 
-I'm a student from ITB's School of Electrical Engineering and Informatics. I'm currently in my fifth semester majoring in Informatics, studying to be a developer, as i am passionate especially in web development and desktop app development. I also have a passion for learning and sharing my knowledge with others a public as possible. When I don't do my studies, I mostly spend my time playing some games or watching animes. 
+I'm a student from ITB's School of Electrical Engineering and Informatics. I'm currently in my fifth semester majoring in Informatics, studying to be a developer, as i am passionate especially in web development. I also have a passion for learning and sharing my knowledge with others a public as possible. When I don't do my studies, I mostly spend my time playing some games or watching animes. 
 
 <h2>Tech Stack</h2>
 
