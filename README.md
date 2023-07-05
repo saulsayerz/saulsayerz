@@ -56,6 +56,7 @@ I'm a student from ITB's School of Electrical Engineering and Informatics. I'm c
 <img src="https://img.shields.io/badge/-Heroku-333333?style=flat-square&logo=heroku">
 <img src="https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql">
 <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat-square&logo=postgresql">
+<img src="https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb">
 <img src="https://img.shields.io/badge/-Firebase-333333?style=flat-square&logo=firebase">
 </p>
 
