@@ -28,6 +28,7 @@ I'm a student from ITB's School of Electrical Engineering and Informatics. I'm c
 ### Front-end Web Development
 <p>
 <img src="https://img.shields.io/badge/-React-333333?style=flat-square&logo=react">
+<img src="https://img.shields.io/badge/-Vue.js-333333?style=flat-square&logo=vue.js">
 <img src="https://img.shields.io/badge/-Bootstrap5-333333?style=flat-square&logo=bootstrap">
 <img src="https://img.shields.io/badge/-Tailwind-333333?style=flat-square&logo=tailwind-css">
 <img src="https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma">
@@ -41,6 +42,7 @@ I'm a student from ITB's School of Electrical Engineering and Informatics. I'm c
 
 <p>
 <img src="https://img.shields.io/badge/-ExpressJS-333333?style=flat-square&logo=express">
+<img src="https://img.shields.io/badge/-Spring%20Boot-333333?style=flat-square&logo=spring">
 <img src="https://img.shields.io/badge/-Flask-333333?style=flat-square&logo=flask">
 <img src="https://img.shields.io/badge/-Django-333333?style=flat-square&logo=Django">
 <img src="https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker"/>
