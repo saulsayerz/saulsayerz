@@ -31,9 +31,10 @@ I'm a student from ITB's School of Electrical Engineering and Informatics. I'm c
 <img src="https://img.shields.io/badge/-Vue.js-333333?style=flat-square&logo=vue.js">
 <img src="https://img.shields.io/badge/-Bootstrap5-333333?style=flat-square&logo=bootstrap">
 <img src="https://img.shields.io/badge/-Tailwind-333333?style=flat-square&logo=tailwind-css">
-<img src="https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma">
+<img src="https://img.shields.io/badge/-NextJS-333333?style=flat-square&logo=prolog">
 </p>
 <p>
+<img src="https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma">
 <img src="https://img.shields.io/badge/-Material%20UI-333333?style=flat-square&logo=prolog">
 <img src="https://img.shields.io/badge/-Cakra%20UI-333333?style=flat-square&logo=prolog">
 </p>
@@ -70,8 +71,10 @@ I'm a student from ITB's School of Electrical Engineering and Informatics. I'm c
 ### Mobile Development
 <p>
 <img src="https://img.shields.io/badge/-Android%20Studio-333333?style=flat-square&logo=prolog">
+<img src="https://img.shields.io/badge/-Flutter-333333?style=flat-square&logo=prolog">
 <img src="https://img.shields.io/badge/-ROOM-333333?style=flat-square&logo=prolog">
 <img src="https://img.shields.io/badge/-SQlite-333333?style=flat-square&logo=prolog">
+  
 </p>
 
 ### Others
